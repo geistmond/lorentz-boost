@@ -1,5 +1,12 @@
 Copyright: 武仁 TAKEMITSU, Zeami (武満世阿弥) "Brien"
 
+The effects of the Higgs Field can be accounted for in terms of the Lorentz Boosts applying to wave function peaks and troughs.
+Particle-like systems that interact with the Higgs Field in different ways carry mass differently, thus their wave functions ought 
+to be different under the Lorentz transforms. "Boosts" and drag effects occur upon interaction with the Higgs Field.
+
+There are supposed to be limits to how fast waves can travel, and this should apply below atomic scale, and that should be
+consistent with Higgs-related observations.
+
 "Reach out to Kyoto University with my Japanese name! My PhD might be a secret! I have pseudonyms!"
 
 My family is from Japan. I was in Marseille processing trauma from the Foreign Legion where I served for 5 years.
