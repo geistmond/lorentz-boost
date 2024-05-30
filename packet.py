@@ -1,12 +1,13 @@
 # for debug printing
 from icecream import ic
+import math
 
 
 
 def safe_inv(x:float) -> float:
     """Avoid divide by zero land for 1/x """
     C = 299792458.0
-    if x == 0.0:
+    if math.isclose(x, 0.0, rel_tol=1e-09, abs_tol=0.0):
         output = 1.0
     else:
         output = 1.0/x
@@ -28,7 +29,7 @@ def cap_c(x: float) -> float:
 def safe_div(x:float, y: float) -> float:
     """Avoid divide by zero land for x/y"""
     C = 299792458.0
-    if y == 0.0:
+    if math.isclose(y, 0.0, rel_tol=1e-09, abs_tol=0.0):
         y = 1.0 # jump up to 1.0 instead of divide by zero error.
     else:
         y = y
